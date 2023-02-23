@@ -49,6 +49,8 @@ Wir wollen ein Rennsimulator erstellen bei welchem man eine Strecke in möglichs
 ### 1.4 Diagramme
 
 ![image](https://user-images.githubusercontent.com/111045708/220877649-7eb6bdb6-8365-4cfe-9525-89f204322bb0.png)
+![UML drawio](https://user-images.githubusercontent.com/111045919/220880882-e41322fd-ae3d-46d9-b49d-58547e065573.png)
+
 
 
 ## 2 Planen
