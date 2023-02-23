@@ -48,7 +48,8 @@ Wir wollen ein Rennsimulator erstellen bei welchem man eine Strecke in möglichs
 
 ### 1.4 Diagramme
 
-✍️Fügen Sie hier ein Use Case-Diagramm mit mindestens 10 Anwendungsfällen ein; und einen PAP.
+![image](https://user-images.githubusercontent.com/111045708/220877649-7eb6bdb6-8365-4cfe-9525-89f204322bb0.png)
+
 
 ## 2 Planen
 
