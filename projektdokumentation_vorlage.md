@@ -23,16 +23,16 @@ Wir wollen ein Rennsimulator erstellen bei welchem man eine Strecke in möglichs
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    |                 |  Qualität     | Als Spieler möchte ich die Möglichkeit haben, meine Statistiken und Erfolge zu verfolgen. |
-| 2 |                 | Funktional     | Als Spieler möchte ich verschiedene Schwierigkeitsgrade haben, um meine Fähigkeiten herauszufordern.                                  |
-| 3 |                 |  Qualität    | Als Spieler möchte ich eine ansprechende Grafik und Soundeffekte haben, um das Spielerlebnis zu verbessern.                                  |
-| 4 |                 |Qualität      | Als Spieler möchte ich verschiedene Fahrzeuge zur Auswahl haben, um mein Rennen zu personalisieren.                                   |
-| 5  |                 |  Qualität    | Als Spieler möchte ich die Möglichkeit haben, mein Fahrzeug zu verbessern, um bessere Leistung zu erzielen.                                   |
-| 6 |                 | Funktional     | Als Spieler möchte ich eine einfache Steuerung haben, um schnell ins Spiel einzusteigen.                                   |
-| 7  |                 | Funktional     | Als Spieler möchte ich eine Pause-Taste haben, um das Spiel jederzeit pausieren zu können.                                   |
-| 8 |                 |  Funktional    | Als Spieler möchte ich die Möglichkeit haben, das Spiel zu speichern und später fortzusetzen.                                   |
-| 9  |                 |  Qualität    | Als Spieler möchte ich verschiedene Rennstrecken zur Auswahl haben, um das Spiel interessanter zu machen.                                  |
-| 10|                 |   Qualität   | Als Spieler möchte ich verschiedene Spielmodi zur Auswahl haben, um Abwechslung zu haben.                                   |
+| 1    |  Kann             |  Qualität     | Als Spieler möchte ich die Möglichkeit haben, meine Statistiken und Erfolge zu verfolgen. |
+| 2 |      Muss           | Funktional     | Als Spieler möchte ich verschiedene Schwierigkeitsgrade haben, um meine Fähigkeiten herauszufordern.                                  |
+| 3 |  Muss               |  Qualität    | Als Spieler möchte ich eine ansprechende Grafik und Soundeffekte haben, um das Spielerlebnis zu verbessern.                                  |
+| 4 |    Kann             |Qualität      | Als Spieler möchte ich verschiedene Fahrzeuge zur Auswahl haben, um mein Rennen zu personalisieren.                                   |
+| 5  |  Kann                |  Qualität    | Als Spieler möchte ich die Möglichkeit haben, mein Fahrzeug zu verbessern, um bessere Leistung zu erzielen.                                   |
+| 6 | Muss                | Funktional     | Als Spieler möchte ich eine einfache Steuerung haben, um schnell ins Spiel einzusteigen.                                   |
+| 7  |  Muss               | Funktional     | Als Spieler möchte ich eine Pause-Taste haben, um das Spiel jederzeit pausieren zu können.                                   |
+| 8 |   Muss              |  Funktional    | Als Spieler möchte ich die Möglichkeit haben, das Spiel zu speichern und später fortzusetzen.                                   |
+| 9  |   Kann              |  Qualität    | Als Spieler möchte ich verschiedene Rennstrecken zur Auswahl haben, um das Spiel interessanter zu machen.                                  |
+| 10|    Kann             |   Qualität   | Als Spieler möchte ich verschiedene Spielmodi zur Auswahl haben, um Abwechslung zu haben.                                   |
 
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
