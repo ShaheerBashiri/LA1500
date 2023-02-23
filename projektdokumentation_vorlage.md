@@ -22,8 +22,17 @@
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    |                 |      | Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️ |
-| ...  |                 |      |                                    |
+| 1    |                 |      | Als Spieler möchte ich die Möglichkeit haben, meine Statistiken und Erfolge zu verfolgen. |
+| 2 |                 |      | Als Spieler möchte ich verschiedene Schwierigkeitsgrade haben, um meine Fähigkeiten herauszufordern.                                  |
+| 3 |                 |      | Als Spieler möchte ich eine ansprechende Grafik und Soundeffekte haben, um das Spielerlebnis zu verbessern.                                  |
+| 4 |                 |      | Als Spieler möchte ich verschiedene Fahrzeuge zur Auswahl haben, um mein Rennen zu personalisieren.                                   |
+| 5  |                 |      | Als Spieler möchte ich die Möglichkeit haben, mein Fahrzeug zu verbessern, um bessere Leistung zu erzielen.                                   |
+| 6 |                 |      | Als Spieler möchte ich eine einfache Steuerung haben, um schnell ins Spiel einzusteigen.                                   |
+| 7  |                 |      | Als Spieler möchte ich eine Pause-Taste haben, um das Spiel jederzeit pausieren zu können.                                   |
+| 8 |                 |      | Als Spieler möchte ich die Möglichkeit haben, das Spiel zu speichern und später fortzusetzen.                                   |
+| 9  |                 |      | Als Spieler möchte ich verschiedene Rennstrecken zur Auswahl haben, um das Spiel interessanter zu machen.                                  |
+| 10|                 |      | Als Spieler möchte ich verschiedene Spielmodi zur Auswahl haben, um Abwechslung zu haben.                                   |
+
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
