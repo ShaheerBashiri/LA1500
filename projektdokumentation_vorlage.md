@@ -14,9 +14,10 @@
 
 ### 1.1 Ihr Projekt
 
-✍️ Beschreiben Sie Ihr Projekt in einem griffigen Satz.
+Wie programmieren einen Rennsimulator mittels Unity.
 
-✍️ Erklären Sie genauer in 50 bis 100 Wörtern, was genau Sie in diesem Projekt erreichen möchten, und was Sie dabei zu lernen hoffen.
+Wir wollen ein Rennsimulator erstellen bei welchem man eine Strecke in möglichst kurzer Zeit fahren muss. Dabei soll man mit der Zeit sein Fahrzeug aber auch seine Bestzeit verbessern können. Währenddessen erhoffen wir uns die Grundlagen zu lernen die man braucht, um ein Spiel auf Unity zu erstellen und dieses Wissen uns dann in der Zukunft helfen kann,
+
 
 ### 1.2 User Stories
 
