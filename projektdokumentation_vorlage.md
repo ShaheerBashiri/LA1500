@@ -32,7 +32,12 @@ Wir wollen ein Rennsimulator erstellen bei welchem man eine Strecke in möglichs
 | 7  |  Muss               | Funktional     | Als Spieler möchte ich eine Pause-Taste haben, um das Spiel jederzeit pausieren zu können.                                   |
 | 8 |   Muss              |  Funktional    | Als Spieler möchte ich die Möglichkeit haben, das Spiel zu speichern und später fortzusetzen.                                   |
 | 9  |   Kann              |  Qualität    | Als Spieler möchte ich verschiedene Rennstrecken zur Auswahl haben, um das Spiel interessanter zu machen.                                  |
-| 10|    Kann             |   Qualität   | Als Spieler möchte ich verschiedene Spielmodi zur Auswahl haben, um Abwechslung zu haben.                                   |
+| 10|    Kann             |   Qualität   | Als Spieler möchte ich verschiedene Spielmodi zur Auswahl haben, um Abwechslung zu haben.                                   | 11| Kann| Qualität| Als Spieler möchte ich Power Ups haben, dass ich falls ich ein Umfall hatte trotzdem noch gewinnen kann.
+|12|Kann| qualität| als Spieler möchte ich, dass mir meine aktuelle Zeit angezeigt wird, damit ich weiss ob ich gut im Rennen liege.
+|13|Kann|qualität|als Spieler möchte ich, dass mir während des Rennens angezeigt wird ob sich meine Rundenzeit verbessert hat, damit ich meinen Fortschritt während des Spieles bereits messen kann.
+|14 | Kann|Qualität| Als Spieler möchte ich meine Position sehen, um zu wissen ob ich schnell genug bin.
+
+
 
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
