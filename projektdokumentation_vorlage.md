@@ -92,8 +92,12 @@ Wir wollen ein Rennsimulator erstellen bei welchem man eine Strecke in möglichs
 |8.A|23.03|Giuliano| Möglichkeit den Spielstand zu speichern|20min|
 |8.B|23.03|Giuliano| Möglichkeit den Spielstand wiederherzustellen|20min|
 |9.A|16.03|Damian| Verschiedene Strecken in das Spiel hinzufügen| 40min|
-|10.A|Shaheer| Verschiedene Spielmodi hinzufügen.| 20min|
-| ...  |       |           |              |               |
+|10.A|23.03|Shaheer| Verschiedene Spielmodi hinzufügen.| 20min|
+| 11.A |  23.03     |     Damian      |     Powerups zum Spiel hinzufügen         |      30 Min         |
+|11.B| 23.03|Damian|Effekt der Powerups integrieren|40 Min|
+| 12.A   |   16.03    |  Giuliano     |    Rundenzeit ins Spiel einbauen        |    30 Min    |
+|13.A| 16.03| Giuliano| Vergleich zur letzten Rundenzeit wird angezeigt| 25 Min|
+|14.A|9.03|Shaheer| Platzierung zum Spiel hinzufügen|40 Min|
 
 Total: 
 
