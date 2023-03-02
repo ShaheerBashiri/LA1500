@@ -32,10 +32,10 @@ Wir wollen ein Rennsimulator erstellen bei welchem man eine Strecke in möglichs
 | 7  |  Muss               | Funktional     | Als Spieler möchte ich eine Pause-Taste haben, um das Spiel jederzeit pausieren zu können.                                   |
 | 8 |   Muss              |  Funktional    | Als Spieler möchte ich die Möglichkeit haben, das Spiel zu speichern und später fortzusetzen.                                   |
 | 9  |   Kann              |  Qualität    | Als Spieler möchte ich verschiedene Rennstrecken zur Auswahl haben, um das Spiel interessanter zu machen.                                  |
-| 10|    Kann             |   Qualität   | Als Spieler möchte ich verschiedene Spielmodi zur Auswahl haben, um Abwechslung zu haben.                                   | 11| Kann| Qualität| Als Spieler möchte ich Power Ups haben, dass ich falls ich ein Umfall hatte trotzdem noch gewinnen kann.
-|12|Kann| qualität| als Spieler möchte ich, dass mir meine aktuelle Zeit angezeigt wird, damit ich weiss ob ich gut im Rennen liege.
-|13|Kann|qualität|als Spieler möchte ich, dass mir während des Rennens angezeigt wird ob sich meine Rundenzeit verbessert hat, damit ich meinen Fortschritt während des Spieles bereits messen kann.
-|14 | Kann|Qualität| Als Spieler möchte ich meine Position sehen, um zu wissen ob ich schnell genug bin.
+| 10|    Kann             |   Qualität   | Als Spieler möchte ich verschiedene Spielmodi zur Auswahl haben, um Abwechslung zu haben.   |                                | 11| Kann| Qualität| Als Spieler möchte ich Power Ups haben, dass ich falls ich ein Umfall hatte trotzdem noch gewinnen kann.|
+|12|Kann| qualität| als Spieler möchte ich, dass mir meine aktuelle Zeit angezeigt wird, damit ich weiss ob ich gut im Rennen liege.|
+|13|Kann|qualität|als Spieler möchte ich, dass mir während des Rennens angezeigt wird ob sich meine Rundenzeit verbessert hat, damit ich meinen Fortschritt während des Spieles bereits messen kann.|
+|14 | Kann|Qualität| Als Spieler möchte ich meine Position sehen, um zu wissen ob ich schnell genug bin.|
 
 
 
@@ -45,9 +45,21 @@ Wir wollen ein Rennsimulator erstellen bei welchem man eine Strecke in möglichs
 ### 1.3 Testfälle
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
-| ---- | ------------ | ------- | ----------------- |
-| 1.1  |              |         |                   |
-| ...  |              |         |                   |
+| 1.1  |       Rennen beendet       |   Statistikem auswählen      |       Statistiken zum Rennen werden angezeigt            |
+| 1.2 |   Mehrere Rennen gefahren           |    Statistiken auswählen     |     Statistiken wie Durchschnitte werden angezeigt              |
+|   2.3   |       Schwierigkeitsgrade liegen vor             |      Schwierigkeitsgrad auswählen         |     Rennen wird einfacher/schwieriger           |
+|   3.4     |         Rennen gestartet    |        Auto fährt    | Motorgeräusche |
+|    4.5       |      Auf Fahrzeug ändern gedrückt                   |     Fahrzeug auswählen        |      Ausgewähltes Fahrzeug wird im Rennen benutzt                |
+|     5.6      |            Auf Tuning gedrückt             |    Fahrzeug verbessern         |          Z.B Fahrzeug Geschwindigkeit erhöht            |
+|     6.7      |          Rennen gestartet               |       W gedrückt      |       Fahrzeug fährt nach vorne               |
+|      7.8     |          Rennen gestartet               |      Pausetaste gedrückt       |       Rennen wird pausiert               |
+|     8.9      |         Rennen pausiert                |      Auf Speichern drücken       |         Spielstand wird gespeichert             |
+|     9.10      |          Spiel gestartet               |      Strecke auswählen       |          Ausgewählte Strecke wird gefahren            |
+|     10.11     |             Strecke ausgewählt            |     Spielmodus auswählen        |      Ausgewählter Modus wird gespielt                |
+|      12.12     |          Rennen gestartet               |    Rennen ist im Gange         |        Zeit wird angezeigt              |
+|      11.13     |         Powerup ausgewählt                |    Powerup benutzt         |      Bonus wird für bestimmte Zeit aktiv               |
+|       13.14    |           Rennen gestartet              |     Zweite Runde beendet        |        Angezeigt ob man besser oder schlechter als in der ersten Runde war              |
+|     14.15      |        Rennen gestartet                 |      Den zweiten Platz überholt       |        Platzierung 2. wird angezeigt              |
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
