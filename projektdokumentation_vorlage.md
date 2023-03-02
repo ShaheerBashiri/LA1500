@@ -49,19 +49,19 @@ Wir wollen ein Rennsimulator erstellen bei welchem man eine Strecke in möglichs
 | ---- | ------------ | ------- | ----------------- |
 | 1.1  |       Rennen beendet       |   Statistikem auswählen      |       Statistiken zum Rennen werden angezeigt            |
 | 1.2 |   Mehrere Rennen gefahren           |    Statistiken auswählen     |     Statistiken wie Durchschnitte werden angezeigt              |
-|   2.3   |       Schwierigkeitsgrade liegen vor             |      Schwierigkeitsgrad auswählen         |     Rennen wird einfacher/schwieriger           |
-|   3.4     |         Rennen gestartet    |        Auto fährt    | Motorgeräusche |
-|    4.5       |      Auf Fahrzeug ändern gedrückt                   |     Fahrzeug auswählen        |      Ausgewähltes Fahrzeug wird im Rennen benutzt                |
-|     5.6      |            Auf Tuning gedrückt             |    Fahrzeug verbessern         |          Z.B Fahrzeug Geschwindigkeit erhöht            |
-|     6.7      |          Rennen gestartet               |       W gedrückt      |       Fahrzeug fährt nach vorne               |
-|      7.8     |          Rennen gestartet               |      Pausetaste gedrückt       |       Rennen wird pausiert               |
-|     8.9      |         Rennen pausiert                |      Auf Speichern drücken       |         Spielstand wird gespeichert             |
-|     9.10      |          Spiel gestartet               |      Strecke auswählen       |          Ausgewählte Strecke wird gefahren            |
-|     10.11     |             Strecke ausgewählt            |     Spielmodus auswählen        |      Ausgewählter Modus wird gespielt                |
-|      12.12     |          Rennen gestartet               |    Rennen ist im Gange         |        Zeit wird angezeigt              |
-|      11.13     |         Powerup ausgewählt                |    Powerup benutzt         |      Bonus wird für bestimmte Zeit aktiv               |
-|       13.14    |           Rennen gestartet              |     Zweite Runde beendet        |        Angezeigt ob man besser oder schlechter als in der ersten Runde war              |
-|     14.15      |        Rennen gestartet                 |      Den zweiten Platz überholt       |        Platzierung 2. wird angezeigt              |
+|   2.1   |       Schwierigkeitsgrade liegen vor             |      Schwierigkeitsgrad auswählen         |     Rennen wird einfacher/schwieriger           |
+|   3.1    |         Rennen gestartet    |        Auto fährt    | Motorgeräusche |
+|    4.1       |      Auf Fahrzeug ändern gedrückt                   |     Fahrzeug auswählen        |      Ausgewähltes Fahrzeug wird im Rennen benutzt                |
+|     5.1      |            Auf Tuning gedrückt             |    Fahrzeug verbessern         |          Z.B Fahrzeug Geschwindigkeit erhöht            |
+|     6.1     |          Rennen gestartet               |       W gedrückt      |       Fahrzeug fährt nach vorne               |
+|      7.1     |          Rennen gestartet               |      Pausetaste gedrückt       |       Rennen wird pausiert               |
+|     8.1      |         Rennen pausiert                |      Auf Speichern drücken       |         Spielstand wird gespeichert             |
+|     9.1      |          Spiel gestartet               |      Strecke auswählen       |          Ausgewählte Strecke wird gefahren            |
+|     10.1     |             Strecke ausgewählt            |     Spielmodus auswählen        |      Ausgewählter Modus wird gespielt                |
+|      12.1     |          Rennen gestartet               |    Rennen ist im Gange         |        Zeit wird angezeigt              |
+|      11.1     |         Powerup ausgewählt                |    Powerup benutzt         |      Bonus wird für bestimmte Zeit aktiv               |
+|       13.1    |           Rennen gestartet              |     Zweite Runde beendet        |        Angezeigt ob man besser oder schlechter als in der ersten Runde war              |
+|     14.1     |        Rennen gestartet                 |      Den zweiten Platz überholt       |        Platzierung 2. wird angezeigt              |
 
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
