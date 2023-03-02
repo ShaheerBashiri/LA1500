@@ -24,7 +24,7 @@ Wir wollen ein Rennsimulator erstellen bei welchem man eine Strecke in möglichs
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
 | 1    |  Kann             |  Qualität     | Als Spieler möchte ich die Möglichkeit haben, meine Statistiken und Erfolge zu verfolgen. |
-| 2 |      Muss           | Funktional     | Als Spieler möchte ich verschiedene Schwierigkeitsgrade haben, um meine Fähigkeiten herauszufordern.                                  |
+| 2 |      Muss           | Funktional     | Als Spieler möchte ich verschiedene Schwierigkeitsgrade haben, um meine Fähigkeiten herauszufordern.            |
 | 3 |  Muss               |  Qualität    | Als Spieler möchte ich eine ansprechende Grafik und Soundeffekte haben, um das Spielerlebnis zu verbessern.                                  |
 | 4 |    Kann             |Qualität      | Als Spieler möchte ich verschiedene Fahrzeuge zur Auswahl haben, um mein Rennen zu personalisieren.                                   |
 | 5  |  Kann                |  Qualität    | Als Spieler möchte ich die Möglichkeit haben, mein Fahrzeug zu verbessern, um bessere Leistung zu erzielen.                                   |
@@ -47,6 +47,7 @@ Wir wollen ein Rennsimulator erstellen bei welchem man eine Strecke in möglichs
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
 | 1.1  |              |         |                   |
+| 1.1  |              |         |                   |
 | ...  |              |         |                   |
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
@@ -62,7 +63,22 @@ Wir wollen ein Rennsimulator erstellen bei welchem man eine Strecke in möglichs
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |       |           |              |               |
+| 1.A  | 16.03  |Shaheer | Weg und Gestaltung der Erfolge. | 45min |
+| 1.B  | 23.03  | Shaheer | Die Erfolge funktionieren und können abgerufen werden.  |45min |
+| 2.A  | 09.03  | Giuliano |Menu erstellen welches für die Schwierigkeitsgraden.| 20min |
+| 2.B  | 16.03  | Giuliano | Die verschiedenen Schwierigskeitsgrade funktionieren.| 60min|
+| 3.A  | 23.03  |Damian | Musik im Menu hinzufügen.|15min|
+|3.B|16.03 | Damian|Soundeffekte den Autos hinzufügen.| 20min |
+|4.A|16.03|Shaheer|Verschiede Autos ins Spiel hinzufügen.20min|
+|4.B|16.03| Shaheer|Menu erstellen um ein Auto auswählen zu können.| 20min |
+|5.A|23.03 | Shaheer| Funktion einfügen bei den Autos, dass man diese verbessern kann.| 30min |
+|6.A| 9.03| Damian| Steuerung ins Spiel hinzufügen.|10min|
+|7.A|9.03| Damian| Pausenknopf hinzufügen und das dieser Aufgerufen werden kann.| 20min |
+|7.B|9.03| Damian|Pausenmenu gestallten und das es genutzt werden kann.| 20min |
+|8.A|23.03|Giuliano| Möglichkeit den Spielstand zu speichern|20min|
+|8.B|23.03|Giuliano| Möglichkeit den Spielstand wiederherzustellen|20min|
+|9.A|16.03|Damian| Verschiedene Strecken in das Spiel hinzufügen| 40min|
+|10.A|Shaheer| Verschiedene Spielmodi hinzufügen.| 20min|
 | ...  |       |           |              |               |
 
 Total: 
