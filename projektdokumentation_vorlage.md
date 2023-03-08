@@ -36,7 +36,8 @@ Wir wollen ein Rennsimulator erstellen bei welchem man eine Strecke in möglichs
 | 11| Kann| Qualität| Als Spieler möchte ich Power Ups haben, dass ich falls ich ein Umfall hatte trotzdem noch gewinnen kann.
 |12|Kann| qualität| als Spieler möchte ich, dass mir meine aktuelle Zeit angezeigt wird, damit ich weiss ob ich gut im Rennen liege.
 |13|Kann|qualität|als Spieler möchte ich, dass mir während des Rennens angezeigt wird ob sich meine Rundenzeit verbessert hat, damit ich meinen Fortschritt während des Spieles bereits messen kann.
-|14 | Kann|Qualität| Als Spieler möchte ich meine Position sehen, um zu wissen ob ich schnell genug bin.
+|14 | Kann|Qualität| Als Spieler möchte ich meine Position sehen, um zu wissen ob ich schnell genug bin.|
+|15| Kann| Qualität| Als Spieler möchte ich Powerups einsammeln, um mich längsämer oder schneller zu machen.
 
 
 
@@ -79,25 +80,26 @@ Wir wollen ein Rennsimulator erstellen bei welchem man eine Strecke in möglichs
 | ---- | ----- | --------- | ------------ | ------------- |
 | 1.A  | 16.03  |Shaheer | Weg und Gestaltung der Erfolge. | 45min |
 | 1.B  | 23.03  | Shaheer | Die Erfolge funktionieren und können abgerufen werden.  |45min |
-| 2.A  | 09.03  | Giuliano |Menu erstellen welches für die Schwierigkeitsgraden.| 20min |
+| 2.A  | 09.03  | Giuliano |Menu erstellen welches für die Schwierigkeitsgraden.| 40min |
 | 2.B  | 16.03  | Giuliano | Die verschiedenen Schwierigskeitsgrade funktionieren.| 60min|
-| 3.A  | 23.03  |Damian | Musik im Menu hinzufügen.|15min|
-|3.B|16.03 | Damian|Soundeffekte den Autos hinzufügen.| 20min |
-|4.A|16.03|Shaheer|Verschiede Autos ins Spiel hinzufügen.20min|
-|4.B|16.03| Shaheer|Menu erstellen um ein Auto auswählen zu können.| 20min |
+| 3.A  | 23.03  |Damian | Musik im Menu hinzufügen.|35min|
+|3.B|16.03 | Damian|Soundeffekte den Autos hinzufügen.| 40min |
+|4.A|16.03|Shaheer|Verschiede Autos ins Spiel hinzufügen.|40min|
+|4.B|16.03| Shaheer|Menu erstellen um ein Auto auswählen zu können.| 40min |
 |5.A|23.03 | Shaheer| Funktion einfügen bei den Autos, dass man diese verbessern kann.| 30min |
 |6.A| 9.03| Damian| Steuerung ins Spiel hinzufügen.|10min|
-|7.A|9.03| Damian| Pausenknopf hinzufügen und das dieser Aufgerufen werden kann.| 20min |
-|7.B|9.03| Damian|Pausenmenu gestallten und das es genutzt werden kann.| 20min |
-|8.A|23.03|Giuliano| Möglichkeit den Spielstand zu speichern|20min|
-|8.B|23.03|Giuliano| Möglichkeit den Spielstand wiederherzustellen|20min|
+|7.A|9.03| Damian| Pausenknopf hinzufügen und das dieser Aufgerufen werden kann.| 40min |
+|7.B|9.03| Damian|Pausenmenu gestallten und das es genutzt werden kann.| 40min |
+|8.A|23.03|Giuliano| Möglichkeit den Spielstand zu speichern|40min|
+|8.B|23.03|Giuliano| Möglichkeit den Spielstand wiederherzustellen|40min|
 |9.A|16.03|Damian| Verschiedene Strecken in das Spiel hinzufügen| 40min|
-|10.A|23.03|Shaheer| Verschiedene Spielmodi hinzufügen.| 20min|
+|10.A|23.03|Shaheer| Verschiedene Spielmodi hinzufügen.| 40min|
 | 11.A |  23.03     |     Damian      |     Powerups zum Spiel hinzufügen         |      30 Min         |
 |11.B| 23.03|Damian|Effekt der Powerups integrieren|40 Min|
 | 12.A   |   16.03    |  Giuliano     |    Rundenzeit ins Spiel einbauen        |    30 Min    |
-|13.A| 16.03| Giuliano| Vergleich zur letzten Rundenzeit wird angezeigt| 25 Min|
-|14.A|9.03|Shaheer| Platzierung zum Spiel hinzufügen|40 Min|
+|13.A| 16.03| Giuliano| Vergleich zur letzten Rundenzeit wird angezeigt| 45 Min|
+|14.A|9.03|Shaheer| Platzierung zum Spiel hinzufügen|40 Min||60min
+|15.A|16.03| Damian| Powerups mit Modell und das sie funktionieren ins Spiel einfügen|60min
 
 Total: 
 
