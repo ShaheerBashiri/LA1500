@@ -8,6 +8,7 @@
 | ----- | ------- | ------------------------------------------------------------ |
 |       | 0.0.1   | Wir haben entschieden was für ein Spiel wir machen wollen. |
 |       | 0.0.2   |  Wir haben die Planung für unser Projekt erstellt.                                                            |
+|       | 0.0.3   |  Wir haben an der Steuerung und an der Strecke gearbeitet                                                           |
 |       | 1.0.0   |                                                              |
 
 ## 1 Informieren
@@ -87,7 +88,7 @@ Wir wollen ein Rennsimulator erstellen bei welchem man eine Strecke in möglichs
 |4.A|16.03|Shaheer|Verschiede Autos ins Spiel hinzufügen.|40min|
 |4.B|16.03| Shaheer|Menu erstellen um ein Auto auswählen zu können.| 40min |
 |5.A|23.03 | Shaheer| Funktion einfügen bei den Autos, dass man diese verbessern kann.| 30min |
-|6.A| 9.03| Damian| Steuerung ins Spiel hinzufügen.|10min|
+|6.A| 9.03| Giuliano| Steuerung ins Spiel hinzufügen.|50min|
 |7.A|9.03| Damian| Pausenknopf hinzufügen und das dieser Aufgerufen werden kann.| 40min |
 |7.B|9.03| Damian|Pausenmenu gestallten und das es genutzt werden kann.| 40min |
 |8.A|23.03|Giuliano| Möglichkeit den Spielstand zu speichern|40min|
@@ -115,7 +116,9 @@ Total:
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |       |           |               |                   |
+| 4.A  | 09.03.2023 | Shaheer  |       40min        |  60min |
+| 6.A  | 09.03.2023      |    Giuliano       | 50min   | 70min |
+| 9.A  | 09.03.2023      |   Damian  |  40min  |60min |
 | ...  |       |           |               |                   |
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
