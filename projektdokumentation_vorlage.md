@@ -131,7 +131,8 @@ Total:
 | 4.1  | 06.04.22|Fahrzeug hat Musik|Eisenring|
 | ...  |       |          |        |
 
-Fazit: Alles was wir bearbeiten konnten funktionierte, dabei hatten wir ein grosses Problem in der Planung, da wir uns viel zu viel vorgenommen hatten. Obwohl wir das erstemal mit Unity gearbeitet haben.
+### Zitat
+Alles was wir bearbeiten konnten funktionierte, dabei hatten wir ein grosses Problem in der Planung, da wir uns viel zu viel vorgenommen hatten. Obwohl wir das erstemal mit Unity gearbeitet haben.
 
 
 ## 6 Auswerten
