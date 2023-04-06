@@ -32,7 +32,7 @@ https://user-images.githubusercontent.com/111045891/230327861-2be91c84-71c9-4ed8
 
 
 ## Verifikation
-Text: WIe das Lenken funktioniert.
+Text: Wie das Lenken funktioniert.
 
 Code: Ausschnitt aus unserem Projekt, welches das Lenken regelt.
 
