@@ -1,8 +1,6 @@
 # Projekt-Dokumentation
 
-☝️ Alle Text-Stellen, welche mit einem ✍️ beginnen, können Sie löschen, sobald Sie die entsprechende Stellen ausgefüllt haben.
 
-✍️ Ihr Gruppenname und Ihre Nachnamen
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
@@ -41,9 +39,6 @@ Wir wollen ein Rennsimulator erstellen bei welchem man eine Strecke in möglichs
 |15| Kann| Qualität| Als Spieler möchte ich Powerups einsammeln, um mich längsämer oder schneller zu machen.
 
 
-
-
-✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
 ### 1.3 Testfälle
 
@@ -100,13 +95,10 @@ Wir wollen ein Rennsimulator erstellen bei welchem man eine Strecke in möglichs
 | 12.A   |   16.03    |  Giuliano     |    Rundenzeit ins Spiel einbauen        |    30 Min    |
 |13.A| 16.03| Giuliano| Vergleich zur letzten Rundenzeit wird angezeigt| 45 Min|
 |14.A|9.03|Shaheer| Platzierung zum Spiel hinzufügen|40 Min||60min
-|15.A|16.03| Damian| Powerups mit Modell und das sie funktionieren ins Spiel einfügen|60min
+|15.A|16.03| Damian| Powerups mit Modell und das sie funktionieren ins Spiel einfügen|60min|
 
 Total: 
 
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, auf die sich das Arbeitspaket bezieht, und `m` von `A` an nach oben buchstabiert. Beispiel: Das dritte Arbeitspaket, das die zweite User Story betrifft, hat also die Nummer `2.C`.
-
-✍️ Ein Arbeitspaket sollte etwa 45' für eine Person in Anspruch nehmen. Die totale Anzahl Arbeitspakete sollte etwa Folgendem entsprechen: `Anzahl R-Sitzungen` ╳ `Anzahl Gruppenmitglieder` ╳ `4`. Wenn Sie also zu dritt an einem Projekt arbeiten, für welches zwei R-Sitzungen geplant sind, sollten Sie auf `2` ╳ `3` ╳`4` = `24` Arbeitspakete kommen. Sollten Sie merken, dass Sie hier nicht genügend Arbeitspakte haben, denken Sie sich weitere "Kann"-User Stories für Kapitel 1.2 aus.
 
 ## 3 Entscheiden
 
@@ -119,9 +111,13 @@ Total:
 | 4.A  | 09.03.2023 | Shaheer  |       40min        |  60min |
 | 6.A  | 09.03.2023      |    Giuliano       | 50min   | 70min |
 | 9.A  | 09.03.2023      |   Damian  |  40min  |60min |
+| 6.A  | 16.03.2023      |    Giuliano       | 50min   | 180min |
+| 9.A  | 16.03.2023      |   Damian  |  40min  |180min |
+| 6.A  | 23.03.2023      |    Giuliano       | 50min   |  60min |
+| 3.B  | 23.03.2023      |   Damian  |  40min  | 60min |
 | ...  |       |           |               |                   |
 
-✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
+
 
 ## 5 Kontrollieren
 
@@ -129,19 +125,14 @@ Total:
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| 1.1  |       |          |        |
+| 1.1  | 06.04.22|Fahrzeug fährt| Eisenring|
+| 2.1  | 06.04.22|es gibt eine Strecke|Eisenring|
+| 3.1  | 06.04.22|es gibt verschiedene Fahrzeuge|Eisenring|
+| 4.1  | 06.04.22|Fahrzeug hat Musik|Eisenring|
 | ...  |       |          |        |
 
-✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
+Fazit: Alles was wir bearbeiten konnten funktionierte, dabei hatten wir ein grosses Problem in der Planung, da wir uns viel zu viel vorgenommen hatten. Obwohl wir das erstemal mit Unity gearbeitet haben.
 
-### 5.2 Exploratives Testen
-
-| BR-№ | Ausgangslage | Eingabe | Erwartete Ausgabe | Tatsächliche Ausgabe |
-| ---- | ------------ | ------- | ----------------- | -------------------- |
-| I    |              |         |                   |                      |
-| ...  |              |         |                   |                      |
-
-✍️ Verwenden Sie römische Ziffern für Ihre Bug Reports, also I, II, III, IV etc.
 
 ## 6 Auswerten
 
