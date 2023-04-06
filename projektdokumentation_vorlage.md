@@ -61,7 +61,7 @@ Wir wollen ein Rennsimulator erstellen bei welchem man eine Strecke in möglichs
 |     14.1     |        Rennen gestartet                 |      Den zweiten Platz überholt       |        Platzierung 2. wird angezeigt              |
 
 
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
+
 
 ### 1.4 Diagramme
 
@@ -94,15 +94,15 @@ Wir wollen ein Rennsimulator erstellen bei welchem man eine Strecke in möglichs
 |11.B| 23.03|Damian|Effekt der Powerups integrieren|40 Min|
 | 12.A   |   16.03    |  Giuliano     |    Rundenzeit ins Spiel einbauen        |    30 Min    |
 |13.A| 16.03| Giuliano| Vergleich zur letzten Rundenzeit wird angezeigt| 45 Min|
-|14.A|9.03|Shaheer| Platzierung zum Spiel hinzufügen|40 Min||60min
+|14.A|9.03|Shaheer| Platzierung zum Spiel hinzufügen|60min|
 |15.A|16.03| Damian| Powerups mit Modell und das sie funktionieren ins Spiel einfügen|60min|
 
-Total: 
+Total: 800 min
 
 
 ## 3 Entscheiden
 
-✍️ Dokumentieren Sie hier Ihre Entscheidungen und Annahmen, die Sie im Bezug auf Ihre User Stories und die Implementierung getroffen haben.
+Wir haben uns entschiede
 
 ## 4 Realisieren
 
@@ -131,7 +131,7 @@ Total:
 | 4.1  | 06.04.22|Fahrzeug hat Musik|Eisenring|
 | ...  |       |          |        |
 
-### Zitat
+### Fazit
 Alles was wir bearbeiten konnten funktionierte, dabei hatten wir ein grosses Problem in der Planung, da wir uns viel zu viel vorgenommen hatten. Obwohl wir das erstemal mit Unity gearbeitet haben.
 
 
