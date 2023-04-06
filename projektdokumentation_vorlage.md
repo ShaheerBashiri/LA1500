@@ -102,7 +102,7 @@ Total: 800 min
 
 ## 3 Entscheiden
 
-Wir haben uns entschiede
+Wir haben uns entschieden nicht alle User-Stories zu machen, da wir durch das Modul hindurch gemerkt haben, dass wir viel zu wenig Zeit eingeplant hatten.
 
 ## 4 Realisieren
 
@@ -137,4 +137,4 @@ Alles was wir bearbeiten konnten funktionierte, dabei hatten wir ein grosses Pro
 
 ## 6 Auswerten
 
-✍️ Fügen Sie hier eine Verknüpfung zu Ihrem Lern-Bericht ein.
+[Link](https://github.com/ShaheerBashiri/LA1500/blob/main/Lernbericht.md)
