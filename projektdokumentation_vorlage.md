@@ -4,9 +4,9 @@
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|       | 0.0.1   | Wir haben entschieden was für ein Spiel wir machen wollen. |
-|       | 0.0.2   |  Wir haben die Planung für unser Projekt erstellt.                                                            |
-|       | 0.0.3   |  Wir haben an der Steuerung und an der Strecke gearbeitet                                                           |
+|09.03.2023       | 0.0.1   | Wir haben entschieden was für ein Spiel wir machen wollen. |
+|09.03.2023       | 0.0.2   |  Wir haben die Planung für unser Projekt erstellt.                                                            |
+|09.03.2023       | 0.0.3   |  Wir haben an der Steuerung und an der Strecke gearbeitet                                                           |
 |       | 1.0.0   |                                                              |
 
 ## 1 Informieren
